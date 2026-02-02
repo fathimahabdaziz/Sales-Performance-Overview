@@ -4,9 +4,10 @@
 Developed a high-impact, single-page business intelligence tool to analyze $8.4M in total revenue from Amazon merchant data. <br>This dashboard provides a "Command Center" for executives to monitor growth, regional performance, and inventory health in real-time.
 
 **Tools Used**
-- Kaggle
-- Power BI Desktop
-- DAX
+- **Data Sourcing:** Kaggle (Amazon India Sales Dataset)
+- **Data Cleaning & ETL:** Power Query (M Language)
+- **Analysis & Modeling:** Power BI Desktop, DAX (Data Analysis Expressions)
+- **Visualization:** Power BI (Custom Dark Mode UI, Bookmarks, and Selection Panes for dynamic navigation)
 
 **Technical Highlights**
 | Components | Description |
